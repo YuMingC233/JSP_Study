@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\HTML&CSS_Study\JSP_Study\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1857852951.index
+\News_Pro\src

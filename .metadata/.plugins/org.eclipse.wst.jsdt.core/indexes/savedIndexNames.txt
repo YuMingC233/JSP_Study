@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\HTML&CSS_Study\JSP_Study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+7726286.index
